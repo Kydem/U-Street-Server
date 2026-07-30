@@ -88,7 +88,6 @@ Deploy dedicated game servers for the group.
 * [ ] Project Zomboid
 * [ ] Minecraft
 * [ ] Arma Reforger
-* [ ] Factorio
 
 For each deployment:
 
